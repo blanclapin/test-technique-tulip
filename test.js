@@ -31,7 +31,6 @@ class TechnicalTest {
             return;
         }
         n_list.forEach(n => TechnicalTest.#myConditionalDisplay(n));
-        return;
     }
 }
 
