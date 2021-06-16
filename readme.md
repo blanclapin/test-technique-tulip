@@ -1,6 +1,6 @@
 # Test technique Tulip (Implémentation "Naïve" / VanillaJS)
+## Consignes du test
 
-## Consigne du test
 Pour chaque nombre n de liste, on veut effectuer les opérations suivantes :
 
 si le nombre est divisible par 3 : on affiche Garçon
