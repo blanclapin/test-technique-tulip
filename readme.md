@@ -1,4 +1,4 @@
-# Test technique Tulip
+# Test technique Tulip (Implémentation "Naïve" / VanillaJS)
 
 Pour chaque nombre n de liste, on veut effectuer les opérations suivantes :
 
