@@ -1,6 +1,6 @@
 # Test technique Tulip (Implémentation POO / VanillaJS)
+## Non compatible avec Firefox pour le moment.
 
 Possible implémentation future... (Orientée objet).
-Non compatible avec Firefox pour le moment.
 
-## Pour tester le programme : ouvrir test.html dans Chrome
+### Pour tester le programme : ouvrir test.html dans Chrome
