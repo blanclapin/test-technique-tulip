@@ -4,7 +4,7 @@
 function myAppendToDom(p) {
     const labels = ["Garcon", "Fille", "GarconFille"];
 
-    if (!labels.includes(p)) {
+    if (!labels.includes(p) && !parseInt(p) && p != 0) {
         console.log("Nope");
         return;
     }
